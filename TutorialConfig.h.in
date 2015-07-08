@@ -1,0 +1,4 @@
+// the configured options and settings for main
+#define cmake_tutorial_VERSION_MAJOR @cmake_tutorial_VERSION_MAJOR@
+#define cmake_tutorial_VERSION_MINOR @cmake_tutorial_VERSION_MINOR@
+#cmakedefine USEMYMATH
